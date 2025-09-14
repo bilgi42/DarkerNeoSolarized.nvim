@@ -8,7 +8,7 @@ M.dark = {
   bg2         = '#00212b',  -- panel.background, status_bar.background, tab.active_background
   
   -- Foreground colors
-  fg0         = '#eee8d5',  -- editor.foreground, text, predictive
+  fg0         = '#c2bdae',  -- editor.foreground, text, predictive
   fg1         = '#657b83',  -- border.focused, editor.active_line_number, icon
   fg2         = '#586e75',  -- editor.line_number, hint
   
