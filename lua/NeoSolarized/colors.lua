@@ -27,23 +27,23 @@ M.dark = {
   purple      = '#d33682',  -- number, renamed
   violet      = '#6c71c4',  -- link_uri, unreachable
   
-  -- Background variants for different states
-  bg_red      = '#dc322f22', -- error.background, conflict.background
-  bg_green    = '#85990022', -- created.background
-  bg_yellow   = '#b5890022', -- modified.background
-  bg_blue     = '#268bd222', -- info.background, editor.document_highlight.read_background
-  bg_orange   = '#cb4b1622', -- deleted.background
-  bg_purple   = '#d3368244', -- selection colors for players
+  -- Background variants for different states (converted from semi-transparent)
+  bg_red      = '#2d1b1d', -- error.background, conflict.background
+  bg_green    = '#1f2419', -- created.background
+  bg_yellow   = '#252119', -- modified.background
+  bg_blue     = '#0f1f25', -- info.background, editor.document_highlight.read_background
+  bg_orange   = '#231b17', -- deleted.background
+  bg_purple   = '#291d25', -- selection colors for players
   
-  -- Diff colors
-  diff_add    = '#85990044', -- search.match_background, predictive syntax background
-  diff_change = '#268bd244', -- editor.document_highlight.bracket_background
-  diff_delete = '#dc322f44', -- player selection
-  diff_text   = '#2aa19844', -- ghost_element.selected, player selection
+  -- Diff colors (converted from semi-transparent)
+  diff_add    = '#1a2318', -- search.match_background, predictive syntax background
+  diff_change = '#0e1d24', -- editor.document_highlight.bracket_background
+  diff_delete = '#2b1a1a', -- player selection
+  diff_text   = '#152322', -- ghost_element.selected, player selection
   
-  -- Special colors
-  scrollbar_thumb = '#073642bb', -- scrollbar.thumb.background
-  indent_guide = '#586e75bb',    -- editor.indent_guide_active, panel.indent_guide_active
+  -- Special colors (converted from semi-transparent)
+  scrollbar_thumb = '#0a1f28', -- scrollbar.thumb.background
+  indent_guide = '#1e2a2c',    -- editor.indent_guide_active, panel.indent_guide_active
   
   none        = "NONE"
 }
