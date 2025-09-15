@@ -19,7 +19,7 @@ M.dark = {
   
   -- Semantic colors
   red         = '#dc322f',  -- error, conflict, constant, tag
-  orange      = '#cb4b16',  -- deleted, enum, preproc, string.regex, string.special, title, warning
+  orange      = '#dc322e',  -- deleted, enum, preproc, string.regex, string.special, title, warning
   yellow      = '#b58900',  -- modified, boolean, text.literal, type
   green       = '#859900',  -- created, success, keyword, operator
   aqua        = '#2aa198',  -- border.selected, icon.accent, string
