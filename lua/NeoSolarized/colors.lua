@@ -28,7 +28,7 @@ M.dark = {
   violet      = '#6c71c4',  -- link_uri, unreachable
   
   -- Background variants for different states (converted from semi-transparent)
-  bg_red      = '#2d1b1d', -- error.background, conflict.background
+  bg_red      = '#c92033', -- error.background, conflict.background
   bg_green    = '#8aa867', -- created.background
   bg_yellow   = '#252119', -- modified.background
   bg_blue     = '#0f1f25', -- info.background, editor.document_highlight.read_background
